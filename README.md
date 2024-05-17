@@ -1,18 +1,10 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
-&nbsp;&nbsp;&nbsp;
 
 
-<p align="center">Garoto fascinado por programação. <br><br> Estudante paixonado por tecnologia e fascinado por tudo que é possível criar através da programação.</p>&nbsp;
+<p align="center">Garoto fascinado por programação. <br><br>Estudante apaixonado por tecnologia e fascinado por tudo que é possível criar através da programação.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icaropv&show_icons=true&theme=radical)
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=icaropv_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
-
+![Icaro GitHub stats ](https://github-readme-stats.vercel.app/api?username=icaropv&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icaropv&langs_count=8)
 
 
 ## My Skills
