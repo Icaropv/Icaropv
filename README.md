@@ -3,7 +3,7 @@
 
 <p align="center">Garoto fascinado por programação. <br><br>Estudante apaixonado por tecnologia e fascinado por tudo que é possível criar através da programação.</p>&nbsp;
 
-![Icaro GitHub stats ](https://github-readme-stats.vercel.app/api?username=icaropv&show_icons=true&theme=radical)
+![Icaro GitHub stats ](https://github-readme-stats.vercel.app/api?username=icaropv&show_icons=true&theme=radical) gap:20px
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icaropv&langs_count=8)
 
 
