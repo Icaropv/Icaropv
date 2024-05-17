@@ -1,10 +1,10 @@
-
+![image](https://github.com/Icaropv/icaropv/assets/96558279/2bbea992-a6bb-4906-b853-7d8be1120a41)
 
 
 <p align="center">Garoto fascinado por programação. <br><br>Estudante apaixonado por tecnologia e fascinado por tudo que é possível criar através da programação.</p>&nbsp;
 
-![Icaro GitHub stats ](https://github-readme-stats.vercel.app/api?username=icaropv&show_icons=true&theme=radical) gap:20px
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icaropv&langs_count=8)
+![Icaro GitHub stats ](https://github-readme-stats.vercel.app/api?username=icaropv&show_icons=true&theme=radical) <br> <br>
+![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=icaropv&langs_count=8) 
 
 
 ## My Skills
